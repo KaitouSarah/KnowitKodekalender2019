@@ -1,14 +1,14 @@
 const fs = require("fs");
-const availableSheep = fs.readFileSync("C:/Users/lsansn/Desktop/KnowitKodekalender2019/Luke1/dataLuke1.txt").toString('utf-8').split(', ');
+const availableSheep = fs.readFileSync("./Luke1/dataLuke1.txt", 'utf-8').split(', ').map(Number);
 
-let dragonSize = 50;
-let daysAlive = 0;
-let daysHungryDragon = 0;
-let leftoverSheep = 0;
+let dragonSize = Number(50);
+let daysAlive = Number(0);
+let daysHungryDragon = Number(0);
+let leftoverSheep = Number(0);
 let alive = true;
 
 while (alive) {
-    let totalSheep = +availableSheep[daysAlive] + +leftoverSheep; 
+    let totalSheep = availableSheep[daysAlive] + leftoverSheep; 
     console.log("Total sheep: ", totalSheep, "  Sheep today: ", availableSheep[daysAlive], "  leftovers: ", leftoverSheep, "  Dragon size: ", dragonSize);
     if (dragonSize <= totalSheep) {
         daysAlive++;

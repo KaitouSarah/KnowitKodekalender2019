@@ -8,7 +8,7 @@ Etter en strabasiøs tur til Ikea kommer Kai-Ronny hjem med et flatpakket møbel
 
 ## Eksempel
 
-![GitHub Logo](https://knowit-julekalender.s3.eu-central-1.amazonaws.com/2019-luke3/example.png)
+![GitHub Logo](https://knowit-julekalender.s3.eu-central-1.amazonaws.com/2019-luke3/example.png | width=30)
 Dette svart-hvitt bildet på 3x3 piksler gir følgende flatpakkede fil: `010101010`.
 
 ---

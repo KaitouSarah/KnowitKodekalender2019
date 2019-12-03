@@ -7,8 +7,7 @@ Av: Sverre Johann Bjørke
 Etter en strabasiøs tur til Ikea kommer Kai-Ronny hjem med et flatpakket møbel. Dessverre har han glemt hva han faktisk kjøpte. Heldigvis har han en [bildefil](https://knowit-julekalender.s3.eu-central-1.amazonaws.com/2019-luke3/img.txt) av det han har kjøpt. Dessverre har også denne blitt flatpakket. Hva har Kai-Ronny kjøpt på Ikea?
 
 ## Eksempel
-<img src="https://knowit-julekalender.s3.eu-central-1.amazonaws.com/2019-luke3/example.png" alt="Eksempelbilde" height="30" width="30&quot;">
-Dette svart-hvitt bildet på 3x3 piksler gir følgende flatpakkede fil: `010101010`.
+<img src="https://knowit-julekalender.s3.eu-central-1.amazonaws.com/2019-luke3/example.png" alt="Eksempelbilde" height="30" width="30&quot;"> Dette svart-hvitt bildet på 3x3 piksler gir følgende flatpakkede fil: `010101010`.
 
 ---
 
@@ -24,4 +23,4 @@ Av: Liv Sarah Ansnes
 * Filen åpnes så i Edge med zoom til 10% (Chrome ville ikke gå lengre ned enn 25%), og alle bildene vil kunne sees. 
 * Så er det bare å bla til et bilde som gir mening. I dette tilfellet bildet med dimensjon X: 1287 Y: 560. Der ser man tydelig en skohylle. 
 
-![Skohylle](./Luke3/skohylle.jpg)
+<img src="./Luke3/skohylle.jpg" alt="losningsbilde&quot;">

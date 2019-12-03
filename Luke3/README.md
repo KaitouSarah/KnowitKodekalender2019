@@ -23,4 +23,4 @@ Av: Liv Sarah Ansnes
 * Filen åpnes så i Edge med zoom til 10% (Chrome ville ikke gå lengre ned enn 25%), og alle bildene vil kunne sees. 
 * Så er det bare å bla til et bilde som gir mening. I dette tilfellet bildet med dimensjon X: 1287 Y: 560. Der ser man tydelig en skohylle. 
 
-<img src="./Luke3/skohylle.jpg" alt="losningsbilde&quot;">
+<img src="./skohylle.jpg" alt="losningsbilde&quot;">

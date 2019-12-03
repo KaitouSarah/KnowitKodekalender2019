@@ -24,3 +24,5 @@ Av: Liv Sarah Ansnes
 * Så er det bare å bla til et bilde som gir mening. I dette tilfellet bildet med dimensjon X: 1287 Y: 560. Der ser man tydelig en skohylle. 
 
 ![Skohylle](https://github.com/KaitouSarah/KnowitKodekalender2019/blob/luke3/Luke3/skohylle.JPG?raw=true)
+
+*Koden kjører på ca 97sec*

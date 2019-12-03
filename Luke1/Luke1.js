@@ -9,7 +9,6 @@ let alive = true;
 
 while (alive) {
     let totalSheep = availableSheep[daysAlive] + leftoverSheep; 
-    console.log("Total sheep: ", totalSheep, "  Sheep today: ", availableSheep[daysAlive], "  leftovers: ", leftoverSheep, "  Dragon size: ", dragonSize);
     if (dragonSize <= totalSheep) {
         daysAlive++;
         leftoverSheep = totalSheep - dragonSize;

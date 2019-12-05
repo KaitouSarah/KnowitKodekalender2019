@@ -25,7 +25,9 @@ Om lista `PonnistallHoppeslottTrommesett` hadde havna i miksen hadde resultatet 
 
 > Løsningen
 
-# Kommer i morgen :-) 
+# Ønskelisten var opprinnelig HestTubaTrompetKattungeIpadBakeredskapDatamaskinTrekkspillLekebilKanarifuglKnallpistolMobiltelefonSydenturHoppeslottKanonLommelyktVekkerklokkeRedningsvestKaraokemaskinXboxOst
+
+Har sett andre løsninger i etterkant som var penere og kortere, men det var nå slik jeg først løste den, så da er det det som kommer på repo. :-)
 
 Av: Liv Sarah Ansnes
 

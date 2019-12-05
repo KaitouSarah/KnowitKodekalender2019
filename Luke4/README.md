@@ -46,7 +46,7 @@ Oppgi svaret i minutter.
 
 > Løsningen
 
-# Publiseres etter luke 5 er kommet :) 
+# 394426 minutter
 
 Av: Liv Sarah Ansnes
 

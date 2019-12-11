@@ -44,3 +44,4 @@ Hva er summen av alle Krampustallene i [denne listen](https://knowit-julekalende
 
 Av: Liv Sarah Ansnes
 
+*Koden kjører på ~>0.6sec*
